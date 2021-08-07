@@ -1,3 +1,5 @@
-# react-jdy42w
+# ReactJS V17
+Passa tempo 
+Desafio Paises e Cidades
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-jdy42w)
+Disponivel no StackBlitz ⚡️ https://stackblitz.com/edit/rc-selector-countys
