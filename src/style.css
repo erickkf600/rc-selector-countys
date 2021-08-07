@@ -22,3 +22,17 @@ body {
   border: none;
   font-size: 20px;
 }
+
+.selected {
+  background: blue !important;
+}
+
+.wrong {
+  background: red !important;
+}
+h1 {
+  color: #fff;
+  grid-column: 1/4;
+  text-transform: uppercase;
+  font-size: 25px;
+}
